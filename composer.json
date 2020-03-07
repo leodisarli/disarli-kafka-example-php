@@ -1,0 +1,14 @@
+{
+    "name": "leodisarli/disarli-kafka-php-sample",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Leonardo Di Sarli",
+            "email": "leosarli@gmail.com"
+        }
+    ],
+    "require": {
+        "PHP": "^7.2",
+        "nmred/kafka-php": "v0.2.0.8"
+    }
+}
